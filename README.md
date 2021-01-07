@@ -1,6 +1,9 @@
 # Unity-Tanks！
 Unity 官方教程【中级】，Tanks！坦克大战，单机双人对战小游戏。
-我的Unity练习项目
+学习Unity做的练习项目。
+
+# Unity版本
+2019.4.14f1c1
 
 # 操作方式：
 Player1(Blue):move-wasd,shot-space  
