@@ -7,7 +7,7 @@ Player1(Blue):move-wasd,shot-space
 Player2(Red):move-Direction key,shot-enter
 
 # V1.1
-B站搬运视频教程地址：https://www.bilibili.com/video/BV1JW41167ha
+B站搬运视频教程地址：https://www.bilibili.com/video/BV1JW41167ha  
 我在官方教程的基础上，增加了三种在场上随机生成的道具：
 1、白色方块：发射散弹
 2、绿色方块：恢复生命值
