@@ -3,7 +3,7 @@ Unity 官方教程【中级】，Tanks！坦克大战，单机双人对战小游
 我的Unity练习项目
 
 # 操作方式：
-Player1(Blue):move-wasd,shot-space
+Player1(Blue):move-wasd,shot-space  
 Player2(Red):move-Direction key,shot-enter
 
 # V1.1
